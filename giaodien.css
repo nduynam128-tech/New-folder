@@ -6,20 +6,20 @@
 }
 
 body{
-    background:#f7f7f7;
+    background:#0c3817;
 }
 
 .products{
     width:80%;
     margin:50px auto;
-    background:white;
+    background:rgb(0, 0, 0);
     padding:60px;
 }
 
 .small-title{
     text-align:center;
     letter-spacing:5px;
-    color:gray;
+    color:#eb0d0d;
     font-size:12px;
 }
 
@@ -27,12 +27,12 @@ h1{
     text-align:center;
     font-size:52px;
     margin-top:15px;
-    color:#1e293b;
+    color:hsl(196, 94%, 48%);
 }
 
 .sub-title{
     text-align:center;
-    color:#777;
+    color:#07f05c;
     margin-top:15px;
 }
 
@@ -43,12 +43,12 @@ h1{
 
 .menu a{
     text-decoration:none;
-    color:#777;
+    color:#fb0606;
     margin:0 15px;
 }
 
 .menu .active{
-    color:black;
+    color:rgb(227, 102, 6);
     font-weight:bold;
 }
 
@@ -74,7 +74,7 @@ h1{
     width:100%;
     height:250px;
     object-fit:cover;
-    background:#eee;
+    background:#ee0606;
 }
 
 .card h3{
@@ -83,7 +83,7 @@ h1{
 }
 
 .card p{
-    color:#666;
+    color:#ef0c0c;
     margin-top:10px;
     line-height:1.5;
 }
